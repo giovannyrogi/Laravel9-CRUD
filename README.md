@@ -1,3 +1,22 @@
+
+Homepage
+<br>
+    <img src="https://i.ibb.co/QYg5hhJ/homepage.png" alt="homepage" width="500">
+<br>
+<br>
+Create Page <br>
+    <img src="https://i.ibb.co/Z8VzLQ5/createpage.png" alt="createpage" width="500">
+<br>
+<br>
+Edit Page <br>
+    <img src="https://i.ibb.co/H247hSW/editpage.png" alt="editpage" width="500">
+ <br><br>
+ Search Data<br>
+    <img src="https://i.ibb.co/VWd0p16/search.png" alt="search" width="500">
+<br>
+<br>
+<br>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
